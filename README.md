@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @rodrobry
-- 👀 I’m interested in games
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on any game related stuff
-- 📫 How to reach me: Twitter @rodrobry
+- 👀 I’m interested in making games
 
 <!---
 rodrobry/rodrobry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
